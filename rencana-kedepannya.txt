@@ -1,3 +1,5 @@
 -konsisten belajr coding
 -dapat magang MSIB
 -ikut Course 
+  *fundamental web development
+-belajar python
