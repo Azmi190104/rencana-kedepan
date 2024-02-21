@@ -2,4 +2,5 @@ target di minggu ini
 
 -rajin wo
 -membuat project website
+  * membuat 1 project
 -belajar github
